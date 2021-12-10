@@ -1,4 +1,6 @@
-## OL validator monitoring scripts. The first alerts if a validator is unhealthy. The second confirms validator health. Separate into separate files and run scrips as cron jobs. Ideally someone picks this up and combines the two scripts into a single script.
+## OL validator monitoring scripts. The first alerts if a validator is unhealthy. 
+## The second confirms validator health. Separate into separate files and run scrips as cron jobs. 
+## Ideally someone picks this up and combines the two scripts into a single script.
 
 #!/bin/bash
 
